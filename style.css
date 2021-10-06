@@ -1,0 +1,48 @@
+#vert{
+    width:80%;
+    height:50px;
+    background:green;
+}
+#bleu{
+    width:20%;
+    height:50px;
+    background:blue;
+}
+#rouge{
+    width:40%;
+    height:100px;
+    background:red;
+}
+#orange{
+    width:30%;
+    height:50px;
+    background:orange;
+}
+#orangejaune{
+    width:30%;
+    height:50px;
+    background:yellow;
+}
+#vertfoncé{
+    width:20%;
+    height:50px;
+    background:greenyellow;
+}
+#gris{
+    width:20%;
+    height:50px;
+    background:grey;
+}
+#rougebizzard{
+    width:20%;
+    height:50px;
+    background:chocolate;
+}
+#grisfoncé{
+    width:100%;
+    height:150px;
+    background:teal;
+}
+div{
+    float: left;
+}
